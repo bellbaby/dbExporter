@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: sunguihua
+Build-Jdk: 1.7.0_80
+Class-Path: . ojdbc14-10.2.0.4.0.jar
+Main-Class: com.asiainfo.exporter.Main
+Created-By: Maven Integration for Eclipse
+
